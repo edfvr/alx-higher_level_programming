@@ -13,9 +13,9 @@ int check_cycle(listint_t *list)
 	listint_t *x = list;
 	listint_t *y = list;
 
-	if (x && x && x->next)
+	if (y && x && x->next)
 	{
-		y = y->fast;
+		y = y->next;
 		x = x->next->next;
 		if (y == x)
 		{
