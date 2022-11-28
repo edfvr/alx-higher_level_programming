@@ -21,3 +21,7 @@ Complete this source code in order to print 3 times a string stored in the varia
 
 ## 6. Play with strings
 Complete this source code to print Welcome to Holberton School!
+
+## 7. Copy - Cut - Paste
+
+## 8. Create a new sentence
