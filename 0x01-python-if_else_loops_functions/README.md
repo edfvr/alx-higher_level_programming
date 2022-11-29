@@ -12,3 +12,9 @@ Write a program that prints the ASCII alphabet, in lowercase, not followed by a 
 ## 3. When I was having that alphabet soup, I never thought that it would pay off
 Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
 - Print all the letters except q and e
+
+## 4. Hexadecimal printing
+a program that prints all numbers from 0 to 98 in decimal and in hexadecimal (as in the following example)
+
+## 5. 00...99
+A program that prints numbers from 0 to 99.
