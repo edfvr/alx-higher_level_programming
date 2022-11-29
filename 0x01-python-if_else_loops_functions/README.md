@@ -30,3 +30,6 @@ a function that prints a string in uppercase followed by a new line.
 
 ## 9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
 A function that prints the last digit of a number.
+
+## 10. a + b
+A function that adds two integers and returns the result.
