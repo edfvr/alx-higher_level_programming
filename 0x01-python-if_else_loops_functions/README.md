@@ -33,3 +33,6 @@ A function that prints the last digit of a number.
 
 ## 10. a + b
 A function that adds two integers and returns the result.
+
+## 11. a ^ b
+A function that computes a to the power of b and return the value.
