@@ -29,3 +29,6 @@ Complete this source code to print Welcome to Holberton School!
 ## 9. Easter Egg
 
 ## 10. Linked list cycle
+
+## 100-write.py
+A Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line.
