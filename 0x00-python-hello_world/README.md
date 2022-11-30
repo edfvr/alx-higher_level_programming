@@ -32,3 +32,17 @@ Complete this source code to print Welcome to Holberton School!
 
 ## 100-write.py
 A Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line.
+
+## 12. Compile
+A script that compiles a Python script file.
+
+## 13. ByteCode -> Python #1
+Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
+```
+3           0 LOAD_CONST               1 (98)
+              3 LOAD_FAST                0 (a)
+              6 LOAD_FAST                1 (b)
+              9 BINARY_POWER
+             10 BINARY_ADD
+             11 RETURN_VALUE
+```
