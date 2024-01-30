@@ -4,7 +4,7 @@
 
 def matrix_divided(matrix, div):
     """Returns a new matrix"""
-    
+
     new_matrix = []
     if div == 0:
         raise ZeroDivisionError("division by zero")
