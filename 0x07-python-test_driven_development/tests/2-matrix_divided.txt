@@ -1,4 +1,4 @@
-The ``2-matrix_divided`r module
+The ``2-matrix_divided`` module
 ===============================
 
 # python3 -m doctest -v ./tests/2-matrix_divided.txt
