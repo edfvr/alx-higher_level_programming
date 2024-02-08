@@ -30,7 +30,7 @@ Now test it:
     >>> my_list
     [1, 9, 3]
 
-    >>> my_list = MyList([3, 6, 2])
+    >>> my_list = MyList([4, 6, 2])
 
     >>> my_list
     [4, 6, 2]
