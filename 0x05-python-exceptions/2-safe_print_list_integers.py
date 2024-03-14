@@ -1,13 +1,13 @@
 #!/usr/bin/python3
 def safe_print_list_integers(my_list=[], x=0):
     count = 0
-    try:
-        for i in range(x):
-            if type(my_list[i]) == int:
+
+    for i in range(x):
+        try:
+            if type(my_list[i]) == int and count != x:
                 print("{:d}".format(my_list[i]), end="")
                 count += 1
-    except IndexError as e:
-        print("IndexError: {}".format(e))
-    
+        except TypeError:
+            pass
     print()
     return count
